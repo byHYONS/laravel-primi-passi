@@ -1,10 +1,10 @@
-# ESERCIZIO:
+# ESERCIZIO: Laravel Primi Passi
 
 > [!NOTE]
 >
 > nome repo: laravel-primi-passi
 
-### Descrizione:
+### Descrizione: 
 Oggi iniziamo a muovere i primi passi con questo fantastico framework che è **Laravel**!
 Per prima cosa, creiamo un nuovo progetto Laravel, utilizzando questo comando:
 ```
@@ -24,4 +24,4 @@ cancelliamo la view `welcome.blade.php` e creiamo una nostra `homepage`.
 
 Facciamo quindi sì che la rotta / visualizzi `home.blade.php`
 
-Inizialmente stampiamo un Hello World
+Inizialmente stampiamo un **Hello World**
